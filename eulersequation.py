@@ -3,8 +3,6 @@
 # This video was talking about the most beatiful equation in mathematics.
 # The mathematician who explained the equation
 import math
-# importing "cmath" for complex number operations
-import cmath
 
 # Initializing real numbers
 x = -1.0
