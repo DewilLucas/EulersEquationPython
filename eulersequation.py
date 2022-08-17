@@ -22,3 +22,4 @@ E = math.e
 calc = E**(PI*i)
 calc2 = calc + 1
 print(calc2.imag)
+# Result should be 0
